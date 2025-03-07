@@ -1,0 +1,7 @@
+#include<studio.h>
+
+int main()
+{
+	ptintf("Hola mundo!"):
+	return 0;
+}
